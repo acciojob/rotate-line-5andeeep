@@ -10,7 +10,7 @@
 
 #line{
 	position: absolute;
-    background: black;
+    background color: black;
 	width: 200px;
     height: 2px
     animation: rotate 3s linear infinite;
