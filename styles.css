@@ -12,6 +12,7 @@
     width: 200px;
     border: 2px solid black;
     animation: rotate 3s linear infinite;
+	position: absolute;
 }
 
 @keyframes rotate {
