@@ -9,10 +9,11 @@
 
 
 #line{
-    width: 200px;
-    border: 2px solid black;
-    animation: rotate 3s linear infinite;
 	position: absolute;
+    background: black;
+	width: 200px;
+    height: 2px
+    animation: rotate 3s linear infinite;
 }
 
 @keyframes rotate {
